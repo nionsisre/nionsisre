@@ -6,8 +6,9 @@ I am a serial learner and problem solver in diverse and varied fields fueled sol
 - Computer Artist 🎨
 - Knowledge Miner 🧠
 - MultiSkills ⚡⚡
-<br/><br/>With 11 Years of coding and product making experience for startups, companies and governments 🎖️
 
+<br/>
+With 11 Years of coding and product making experience for startups, companies and governments 🎖️
 
 ### Socials
 
