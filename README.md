@@ -10,8 +10,6 @@ I am a serial learner and problem solver in diverse and varied fields fueled sol
 <br/>
 With 11 Years of coding and product making experience for startups, companies and governments 🎖️
 
-### Socials
-
 
 ## Find me around the web 🌎
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/kouassi-nionsisre-ndri/) 💼
