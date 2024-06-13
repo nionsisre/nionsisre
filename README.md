@@ -1,4 +1,4 @@
-### Hi there, I'm Kouassi 𓇋𓏠𓈖𓀭𓊍𓏏𓆇𓁐𓁛𓇳 N'DRI 👋
+### Hi there, I'm Patrick N'DRI 👋
 
 - 👀 I’m interested in programming - Javascript, PHP, Java / Kotlin, Swift / Objective C, C#.
 - 🧠 I'm an Indie Hacker and Knowledge Miner, a serial learner and problem solver in diverse and varied fields fueled solely by my passion and love for knowledge and new challenges.
