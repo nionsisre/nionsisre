@@ -1,17 +1,13 @@
 ### Hi there, I'm Kouassi 𓇋𓏠𓈖𓀭𓊍𓏏𓆇𓁐𓁛𓇳 N'DRI 👋
 
-I am a serial learner and problem solver in diverse and varied fields fueled solely by my passion and love for knowledge and new challenges 🤩. I am often referred to by my peers as :
-- Senior Software & Machine Learning Engineer 👨‍💻
-- Tech Entrepreneur & Digital Transformer 🚀
-- Computer Artist 🎨
-- Knowledge Miner 🧠
-- MultiSkills ⚡⚡
-
-With 11 Years of coding and product making experience for startups, companies and governments 🎖️
-
+- 👀 I’m interested in programming - Javascript, PHP, Java / Kotlin, Swift / Objective C, C#.
+- 🧠 I'm an Indie Hacker and Knowledge Miner, a serial learner and problem solver in diverse and varied fields fueled solely by my passion and love for knowledge and new challenges.
+- 😍 I'm actively involved in contributing to open source.
+- 💞️ I’m looking to collaborate on any project that needs my creative mind
 
 ## Find me around the web 🌎
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/kouassi-nionsisre-ndri/) 💼
+
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/nionsisre/) 💼
 - Or reach me: nionsisre@gmail.com 📫
 
 ### Some stats
