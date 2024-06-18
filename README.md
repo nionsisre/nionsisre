@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrick N'DRI 👋
 
-- 👀 I’m interested in programming - Javascript, PHP, Java / Kotlin, Swift / Objective C, C#.
+- 👀 I’m interested in programming - Javascript, PHP / Python, Java / Kotlin, Swift / Objective C, C#, Go.
 - 🧠 I'm an Indie Hacker and Knowledge Miner, a kind of serial learner and problem solver in diverse and varied fields fueled solely by my passion and love for knowledge and new challenges.
 - 🤖 I consider myself like a biological multimodal model constantly learning through life experience.
 - 😍 I'm actively involved in contributing to open source.
