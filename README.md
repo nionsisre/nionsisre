@@ -18,4 +18,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nionsisre&show_icons=true&count_private=true" />-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nionsisre&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nionsisre)
