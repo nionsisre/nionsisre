@@ -14,8 +14,8 @@
 ### Some stats
 
 <!--
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nionsisre&show_icons=true&count_private=true" alt="Kouassi Nionsis-re NDRI's github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nionsisre&count_private=true&layout=compact&langs_count=10" alt="Kouassi Nionsis-re NDRI's github top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nionsisre&show_icons=true&count_private=true" alt="Patrick NDRI's github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nionsisre&count_private=true&layout=compact&langs_count=10" alt="Patrick NDRI's github top languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nionsisre&show_icons=true&count_private=true" />
 -->
 
