@@ -9,7 +9,7 @@
 ## Find me around the web 🌎
 
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/nionsisre) 💼
-- Or reach me: nionsisre@gmail.com 📫
+- Or reach me : nionsisre@gmail.com 📫
 
 ### Some stats
 
