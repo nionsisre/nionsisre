@@ -4,7 +4,7 @@
 - 🧠 I'm an Indie Hacker and Knowledge Miner, a kind of serial learner and problem solver in diverse and varied fields fueled solely by passion and love for knowledge and new challenges.
 - 🤖 I consider myself like a biological multimodal model constantly learning and fine-tuning through life experience.
 - 😍 I'm actively involved in contributing to open source.
-- 💞️ I’m looking to collaborate on any project that needs my creative mind.
+- 💞️ I’m looking to collaborate on any project that needs my holistic mind.
 
 ## Find me around the web 🌎
 
