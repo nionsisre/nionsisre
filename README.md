@@ -1,4 +1,4 @@
-### Hi there, I'm Patrick N'DRI (@Nionsis-Re) 👋
+### Hi there, I'm Patrick N'DRI (@nionsisre) 👋
 
 - 👀 I’m interested in programming - Javascript, PHP / Python, Java / Kotlin, Swift / Objective C, C/C++ (for embedded projects only), C#, Go.
 - 🧠 I'm an Indie Hacker and Knowledge Miner, a kind of serial learner and problem solver in diverse and varied fields fueled solely by passion and love for knowledge and new challenges.
